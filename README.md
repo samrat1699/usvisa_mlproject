@@ -9,3 +9,8 @@ git commit -m ""
 git push origin main
 '''
 
+
+
+## Workflow:
+1. constants
+2. entity
